@@ -2,7 +2,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        int task = 5;
+        int task = 6;
         switch (task){
             case 1:
                 Task6_8_1.execute();
@@ -18,6 +18,9 @@ public class Main {
                 break;
             case 5:
                 Task6_8_5.execute();
+                break;
+            case 6:
+                Task6_8_6.execute();
                 break;
         }
     }
