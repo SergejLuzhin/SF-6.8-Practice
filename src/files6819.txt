@@ -1,0 +1,5 @@
+input.txt 3000 B
+scratch.zip 5 MB
+output.txt 1 KB
+image.bmp 5000 KB
+store.bmp 25 KB
