@@ -1,0 +1,14 @@
+scratch.zip
+------------
+Summary: 5 MB 
+
+image.bmp
+store.bmp
+------------
+Summary: 4 MB 
+
+input.txt
+output.txt
+------------
+Summary: 3 KB 
+
